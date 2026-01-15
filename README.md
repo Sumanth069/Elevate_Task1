@@ -11,7 +11,7 @@ This project focuses on understanding the Titanic dataset by analyzing its struc
 
 Python
 
-Google Colab (Jupyter Notebook)
+Google Colab
 
 Pandas, NumPy
 
@@ -48,6 +48,7 @@ Report.md - Final Report in text(.md)
 # Output
 
 Some snaps of the Output
+
 <img width="1234" height="727" alt="Image" src="https://github.com/user-attachments/assets/ba08f724-7272-44a5-809c-e0522e6c816f" />
 
 <img width="465" height="880" alt="Image" src="https://github.com/user-attachments/assets/439847a2-d8c3-43a3-8258-d3d595d05cae" />
